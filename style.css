@@ -1,0 +1,100 @@
+body{
+	background-color: #D2B48C;
+	margin:0;
+	font-size:12px;
+	font-family:tahoma,arial,verdana;
+}
+div#fejlec{
+	width:800px;
+	height:60px;
+	margin:20px auto 5px auto;
+	text-align:center;
+	font-size:40px;
+	font-family:georgia,tahoma,arial;
+	font-weight:bold;
+	color:#800000;
+	background-color:#F8F8F8;
+	border-radius: 10px;
+	letter-spacing:-1px;
+	border: 1px solid #800000;
+	
+}
+div#container{
+	border-radius: 10px;
+	width:760px;
+	margin:0 auto 20px auto;
+	background:#F8F8F8;
+	padding:20px;
+	border: 1px solid #800000;
+	}
+div#baloldal{
+	width:490px;
+	float:left;
+	
+}
+div#jobboldal{
+	width:250px;
+	float:right; 
+}
+div.szovegdoboz {
+	border-bottom: 2px dotted black;
+	padding-bottom:15px;
+	margin-bottom:15px;
+	color:#800000;
+}
+div.szovegdoboz h2,h2{
+	color:#800000;
+	font-size:14px;
+	padding:0px;
+	margin:0px;
+	
+
+}
+div.szovegdoboz p{
+	line-height:15px;
+	text-align:justify;
+	padding:0px;
+	margin:0px;
+}
+div.szovegdoboz:last-child{
+border:0;
+}
+div#jobboldal img{
+	float:right;
+	width:80px;
+	margin:0 0 10px 10px;
+	border:1px solid #800000;
+	border-radius: 10px;
+	
+}
+div#baloldal h1{
+	font-size:28px;
+	text-transform:uppercase;
+	color:#800000;
+	border-bottom: 1px dotted #800000;
+}
+div#baloldal p{
+	color:black;
+	line-height:18px;
+	text-align:justify;
+}
+div#baloldal img{
+	width:490px;
+	border-radius: 10px;
+	border:1px solid #800000;
+}
+div#footer{
+	
+	margin:0 auto 10px auto;
+	width:800px;
+	border: 1px solid #800000;
+	border-radius: 10px;
+	text-align:center;
+	font-size:10px;
+}
+div.clear{
+	clear:both;
+}
+a{
+	color:#800000;
+}
